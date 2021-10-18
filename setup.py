@@ -14,6 +14,6 @@ setuptools.setup(
     packages= setuptools.find_packages(),
     keywords= ['python', 'wwzz3077'],
     install_requires = [
-        'python_world@https://github.com/wwzz3077/python_world#egg=python_world'
+        'python_world@https://github.com/wwzz3077/python_world#egg=python_world-0.0.1'
     ]
 )
